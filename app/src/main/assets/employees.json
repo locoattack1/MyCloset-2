@@ -1,0 +1,10 @@
+{
+  "employees": [
+    {
+      "brand": "Rick Owens",
+      "nameOfItem": "Dunks",
+      "typeOfItem": "Sneakers",
+      "desc": "High-Top Sneakers"
+    }
+  ]
+}

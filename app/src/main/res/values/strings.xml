@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCloset</string>
+    <string name="item_brand">Brand of Item:</string>
+    <string name="item_brand_hint">Rick Owens, Yohji Yamamoto, etc.</string>
+    <string name="item_name">Name of Item:</string>
+    <string name="item_name_hint">Dunks, Poem Tee, etc.</string>
+    <string name="item_type">Type of Item:</string>
+    <string name="item_type_hint">Boots, Pants, Tee, etc.</string>
+    <string name="item_desc">Description:</string>
+</resources>
